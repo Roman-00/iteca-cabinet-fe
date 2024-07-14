@@ -1,4 +1,4 @@
-# Frontend Microsoft ADS Vite
+# Frontend Iteca Cabinet FE
 Для более подробной информации смотреть [документацию ReactJS](https://react.dev/learn).
 
 ## Настройка проекта
