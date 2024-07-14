@@ -1,7 +1,7 @@
 import i18n from 'i18next';
 import { initReactI18next } from 'react-i18next';
-import ru from '../lang/ru.json';
-import kz from '../lang/kz.json';
+import ru from './lang/ru.json';
+import kz from './lang/kz.json';
 
 const resources = {
     ru: {

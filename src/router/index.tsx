@@ -1,7 +1,7 @@
 import { FC } from 'react';
 import { Routes, Route } from 'react-router-dom';
-import { routes } from '@/app/router/routes.tsx';
-import { PrivateRoute } from '@/app/helpers/router.tsx';
+import { routes } from '@/router/routes.tsx';
+import { PrivateRoute } from '@/helpers/router.tsx';
 
 const AppRouter: FC = () => {
     return (

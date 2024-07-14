@@ -1,6 +1,6 @@
 import { FC } from 'react';
 import { BrowserRouter as Router } from 'react-router-dom';
-import AppRouter from '@/app/router';
+import AppRouter from '@/router';
 
 const App: FC = () => {
     return (

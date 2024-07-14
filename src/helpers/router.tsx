@@ -1,5 +1,5 @@
 import { Navigate } from 'react-router-dom';
-import { authCheck } from '@/app/helpers/auth.ts';
+import { authCheck } from '@/helpers/auth.ts';
 
 /**
  * Хэлпер для установки приватных роутов.
